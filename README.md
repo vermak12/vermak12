@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 En proceso de convertirme en desarrollador de software<br>🌱 Actualmente aprendiendo PHP, Ionic y JS</p>
+<p align="left">🚀 En proceso de convertirme en desarrollador de software<br>🌱 Actualmente aprendiendo PHP, Ionic y TS</p>
 
 ###
 
