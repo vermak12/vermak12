@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Álvaro%20Santana&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Álvaro%20Santana%20Torres&fontSize=45&fontAlignY=35&desc=Desarrollador%20de%20Software&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <h1 align="center">👋 ¡Hola! Soy Álvaro</h1>
   
@@ -15,13 +15,13 @@
 
 ### 👨‍💻 Sobre mí
 
-<img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrZzZsYzdyeG85c2FieHB6NDBkNmw4dmg0ajRpdWJnemR3azh6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKRhiuqc61tOg0RA7o/giphy.gif" alt="Coding GIF" />
+<img align="right" height="180" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF" />
 
 <blockquote>
   <p>🎓 <b>Perfil:</b> Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).</p>
   <p>💡 <b>Intereses:</b> Apasionado por crear soluciones eficientes y explorar nuevas tecnologías.</p>
   <p>🌱 <b>Enfoque actual:</b> Profundizando en <b>PHP, Ionic y TypeScript</b>.</p>
-  <p>📍 <b>Ubicación:</b> Basado en España.</p>
+  <p>📍 <b>Ubicación:</b> Las Palmas de Gran Canaria, España.</p>
 </blockquote>
 
 <br>
