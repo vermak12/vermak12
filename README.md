@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&section=header&text=Álvaro%20Santana&fontSize=50&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <h1 align="center">👋 ¡Hola! Soy Álvaro</h1>
   
   <a href="https://github.com/vermak12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077b6&center=true&vCenter=true&width=500&lines=Desarrollador+de+Software+en+proceso+%F0%9F%9A%80;Estudiante+de+DAM;Apasionado+por+la+tecnolog%C3%ADa;Construyendo+soluciones+creativas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077b6&center=true&vCenter=true&width=800&lines=Desarrollador+de+Software+en+proceso+%F0%9F%9A%80;Graduado+en+DAM;Apasionado+por+la+tecnolog%C3%ADa;Construyendo+soluciones+creativas" alt="Typing SVG" />
   </a>
   <br><br>
   
@@ -18,7 +18,7 @@
 <img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWxrZzZsYzdyeG85c2FieHB6NDBkNmw4dmg0ajRpdWJnemR3azh6ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jKRhiuqc61tOg0RA7o/giphy.gif" alt="Coding GIF" />
 
 <blockquote>
-  <p>🎓 <b>Perfil:</b> Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).</p>
+  <p>🎓 <b>Perfil:</b> Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).</p>
   <p>💡 <b>Intereses:</b> Apasionado por crear soluciones eficientes y explorar nuevas tecnologías.</p>
   <p>🌱 <b>Enfoque actual:</b> Profundizando en <b>PHP, Ionic y TypeScript</b>.</p>
   <p>📍 <b>Ubicación:</b> Basado en España.</p>
