@@ -100,10 +100,7 @@
 
 <br>
 
-<div align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i> 🚀<br>
-  🌸 <i>¡Construyamos y aprendamos juntos!</i> 💡
-</div>
+
 
 <br>
 
