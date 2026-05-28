@@ -65,8 +65,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vermak12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermak12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="top languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=vermak12&theme=tokyonight&hide_border=true" height="165" alt="stats graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vermak12&theme=tokyonight" height="165" alt="top languages graph"  />
 </div>
 
 ---
